@@ -5,7 +5,7 @@
 I am an **M.Sc. Applied Data Science and Analytics graduate**, with experience in **data analytics, dashboard development, reporting, and software quality assurance**.
 
 I enjoy building **data-driven solutions**, validating **data accuracy**, and testing software from a **real user perspective**.
----
+
 
 ## 🛠️ Tech Stack & Tools
 
