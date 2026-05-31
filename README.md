@@ -8,9 +8,13 @@ I enjoy building **data-driven solutions**, validating **data accuracy**, and te
 
 ## 🛠️ Tech Stack & Tools
 
+## 🛠️ Tech Stack & Tools
+
 **Data & BI:** Power BI, Excel, DAX, Power Query, KPI Reporting, Dashboard Development  
 **Databases:** SQL, MySQL, PostgreSQL  
 **Programming:** Python, Pandas, NumPy  
+**Machine Learning & AI:** Supervised Learning, Unsupervised Learning (Regression, Classification, Clustering), Deep Learning, NLP, LLM Agents  
+**LLM Tools:** Ollama, LLaMA, Prompt Engineering, Local LLM Workflows  
 **QA & Testing:** Manual Testing, Regression Testing, API Testing, Postman, Jira, SQL Validation  
 **Workflow & Tools:** Git, GitHub, Agile/Scrum, Documentation  
 
@@ -39,8 +43,10 @@ I enjoy building **data-driven solutions**, validating **data accuracy**, and te
 | Area | What I Work On |
 |---|---|
 | Business Intelligence | Power BI dashboards, KPI tracking, DAX, Power Query |
-| SQL Analytics | Joins, CTEs, window functions, Stored Procedures, Triggers, validation queries |
+| SQL Analytics | Joins, CTEs, window functions, stored procedures, triggers, validation queries |
 | Data Quality | Cleaning, transformation, validation, reporting accuracy |
+| Machine Learning | Regression, classification, clustering, supervised and unsupervised learning |
+| Deep Learning & AI | Time-series forecasting, NLP, LLM agents, Ollama/LLaMA-based workflows |
 | QA Testing | Manual testing, regression testing, API testing, Jira |
 | Python Analytics | Pandas, NumPy, EDA, data preprocessing |
 
