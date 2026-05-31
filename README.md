@@ -39,7 +39,7 @@ I enjoy building **data-driven solutions**, validating **data accuracy**, and te
 | Area | What I Work On |
 |---|---|
 | Business Intelligence | Power BI dashboards, KPI tracking, DAX, Power Query |
-| SQL Analytics | Joins, CTEs, window functions, validation queries |
+| SQL Analytics | Joins, CTEs, window functions, Stored Procedures, Triggers, validation queries |
 | Data Quality | Cleaning, transformation, validation, reporting accuracy |
 | QA Testing | Manual testing, regression testing, API testing, Jira |
 | Python Analytics | Pandas, NumPy, EDA, data preprocessing |
